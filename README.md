@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=akbarnurrizqi167&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="akbarnurrizqi167" />
   <img src="https://img.shields.io/github/followers/akbarnurrizqi167?style=for-the-badge&logo=github&color=ffc83d" alt="Followers" />
   <img src="https://img.shields.io/github/stars/akbarnurrizqi167?style=for-the-badge&logo=github&color=1f6feb" alt="Stars" />
-    <a href="https://akbarnurrizqi167.github.io/portfolio/">
+    <a href="https://notch-amaranthus-492.notion.site/Portfolio-20b8abbe2edf8058affdd304db7e0178?source=copy_link">
     <img src="https://img.shields.io/badge/Visit-Portfolio-1DA1F2?style=for-the-badge&logo=web&logoColor=white" alt="My Portfolio"/>
   </a>
 </p>
@@ -23,7 +23,7 @@
 
 - 🌱 I'm currently learning **ML and AI**
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://akbarnurrizqi167.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://notch-amaranthus-492.notion.site/Portfolio-20b8abbe2edf8058affdd304db7e0178?source=copy_link)
 
 - 📫 Reach me at **akbarnurrizqi167@gmail.com**
 
@@ -45,7 +45,7 @@
   <a href="mailto:akbarnurrizqi167@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://akbarnurrizqi167.github.io/portfolio/">
+  <a href="https://notch-amaranthus-492.notion.site/Portfolio-20b8abbe2edf8058affdd304db7e0178?source=copy_link">
     <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
